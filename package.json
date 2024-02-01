@@ -1,0 +1,20 @@
+{
+  "name": "minor-project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipta",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "long": "^5.2.3",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.9.1",
+    "uuid": "^9.0.1"
+  }
+}

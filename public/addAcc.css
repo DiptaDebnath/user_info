@@ -1,0 +1,33 @@
+.form{
+    width: 500px;
+    justify-content: center;
+    height: 400px;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(#121212, #5fc8f6);
+
+}
+.cardBody{
+    margin: 10px auto;
+    width: 700px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 10px blue;
+    background: linear-gradient(#f4f3f2, #020202);
+}
+.innercard{
+    height: 500px;
+    flex: 0 0 auto;
+}
+
+.cardBody:hover{
+    box-shadow: 2px 2px 30px blue;
+}
+
+button{
+    background: linear-gradient(#f4f3f2, #3d05f3);
+}
+
